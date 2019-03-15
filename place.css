@@ -1,0 +1,144 @@
+.post
+{
+	max-width: 700px;
+	width:80%;
+	/*The 80% will work when 700px can't be displayed*/
+	/*border : 20px #bdc3c7 solid;*/
+	/*margin-left: auto;
+	margin-right: auto;*/
+	margin :20px auto;
+	/*margin-top: 50px;*/
+	padding:20px;
+	font-family: Source Sans Pro;
+	margin-top: 100px;
+	
+
+}
+
+
+h1
+{
+	color:#2c3e50;
+	text-align: center;
+	/*padding-left: 20px;*/
+}
+p
+{
+	
+	/*padding-left: 20px;*/
+	padding-right: 20px;
+	
+}
+.top
+{
+	border-left:5px #bdc3c7 solid;
+	padding-left: 5px;
+	font-size: 20px;
+	font-weight: 900;
+}
+
+.date
+{
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+	color:#2531CC;
+}
+
+.navbar
+{
+	background-color: #000000;
+	height: 75px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.post
+{
+	margin-bottom: 20px;
+
+}
+
+/*.thumbnail
+{
+	width: 200px;
+	height: 200px;
+}*/
+
+
+div.thumbnail
+{
+	/*margin-left: 250px;*/
+}
+
+
+#logo1
+{
+	/*width: 90px;*/
+	height: 75px;
+}
+
+.links
+{
+	padding-top: 10px;
+	padding-left: 30px;
+}
+
+
+.fa-facebook:before
+{
+	height: 50px;
+}
+
+.page-footer
+{
+	background-color: black;
+}
+
+body{
+    background-image: linear-gradient(#B7C2F1,#9AB9F8,#BAFBFA,#F8FDFD,white,#FDD1F4);
+	background-size: cover;	
+}
+
+#logo
+{
+	height: 50px;
+}
+
+
+#logof
+{
+	height: 150px;
+    border-radius: 300px;
+
+}
+
+#links
+{
+	width: 200px;
+	margin:20px auto;
+	text-align: left;
+
+}
+
+#social
+{
+	margin-top: 50px
+}
+
+#bs-example-navbar-collapse-1
+{
+	background-color: black;
+}
+
+
+
+#pic
+{
+	height: 402px;
+	width: 100%;
+
+}

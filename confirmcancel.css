@@ -1,0 +1,298 @@
+/*Tags*/
+body{
+    background-image: linear-gradient(#B7C2F1,#9AB9F8,#BAFBFA,#F8FDFD,white,#FDD1F4);
+	background-size: cover;	
+}
+h4{
+	font-family: 'PT Serif', serif;
+	font-size: 35px;
+	text-shadow: 7px 7px 7px #F8ECEC;
+}
+a.button{
+
+	margin-left: 30%;
+	height: 300px;
+	width: 800px;
+	border-width: 2px;
+	border-radius: 10px;
+	background-color: #79FB56;
+	font-size: 25px;
+	font-family:'Roboto', sans-serif;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+
+}
+
+
+button{
+	margin-left: 30%;
+	height: 50px;
+	width: 130px;
+	border-radius: 10px;
+	background-color: #79FB56;
+	font-size: 17px;
+	font-family:'Roboto', sans-serif;
+
+}
+
+
+button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+input[type=mobile]{
+	width: 160px;
+	height: 30px;
+
+}
+
+input[type=email]{
+	width: 160px;
+	height: 30px;
+
+}
+
+label{
+	font-size: 15px;
+	
+}
+
+
+
+/*End of tags*/
+
+/*Classes*/
+
+ .btn-danger{
+ 	width: 150px;
+ }
+
+.content1
+{
+	text-align: center;
+	font-size: 400px;
+	text-shadow: 4px 4px 4px #aaa;
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+.ur-page-header
+{
+	text-align: center;
+	padding-top: 20px;
+}
+
+
+.page-footer
+{
+	background-color: black;
+}
+.navbar
+{
+	background-color: #000000;
+	height: 75px;
+}
+hr.style-four {
+    height: 12px;
+    border: 0;
+    color: #535050;
+    box-shadow: outset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+
+.links
+{
+	padding-top: 10px;
+	padding-left: 30px;
+}
+
+
+.fa-facebook:before
+{
+	height: 50px;
+}
+
+hr.style14 { 
+  border: 0; 
+  height: 2px; 
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+  
+}
+
+.box{
+	float: right;
+    }
+
+.info_td
+{
+	font-family: 'PT Serif', serif;
+	font-size: 20px;
+}
+/*End of classes*/
+
+
+/*IDs*/
+#logo
+{
+	height: 50px;
+	width: 100px;
+}
+
+#logo1
+{
+	height: 75px;
+	border-radius: 10px;
+}
+#container2
+{
+	width: 500px;
+	text-align: center;
+	margin: 20px auto;
+}
+
+
+#container
+{
+	/*border: 2px solid #BB8CC1;*/
+	margin:20px auto;
+	width: 700px;
+    padding: 20px;
+    /*border-radius: 25px;*/
+
+
+	/*width:350px;height:200px;*/
+	border: solid 1px #555;
+	background-color: #eed;
+	box-shadow: 0 0 50px rgba(0,0,0,0.6);
+    -moz-box-shadow: 0 0 50px rgba(0,0,0,0.6);
+    -webkit-box-shadow: 0 0 50px rgba(0,0,0,0.6);
+    -o-box-shadow: 0 0 50px rgba(0,0,0,0.6);
+
+    border-radius:20px;
+}
+
+#t_header{
+	background-color:#A3B3C5;
+	background-blend-mode:soft-light;
+	height:80px;
+}
+#t_blank{
+	height:20px;
+}
+#t_head{
+	text-align:left;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	margin-left: 2px;
+	padding-left: 2px;
+}
+
+#t_value{
+	font-family: 'IBM Plex Sans', sans-serif;
+	text-align:left;
+	font-size: 25px;
+	text-transform: uppercase;
+	margin-left: 2px;
+	padding-left: 2px;
+}
+
+#t_footer{
+	background-color:#A3B3C5;
+	background-blend-mode: soft-light;
+}
+
+
+#logof
+{
+	height: 150px;
+  border-radius: 300px;
+
+}
+
+#footer
+{
+	width: 100%;
+}
+
+#links
+{
+	width: 200px;
+	margin:20px auto;
+	text-align: left;
+
+}
+
+#social
+{
+	margin-top: 50px
+}
+
+#bs-example-navbar-collapse-1
+{
+	background-color: black;
+}
+
+/*End of IDs*/
+
+#b1{
+	margin-left: 140px;
+	color: #262424;
+	width: 1000px;
+	text-align: center;
+	font-size: 62px;
+	border-width: 0px;
+	box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+    text-shadow: 7px 7px 7px #B7B2B2;
+}
+#logo
+{
+	height: 50px;
+	width: 100px;
+}
+
+
+
+#logo1
+{
+	height: 75px;
+}
+#logof
+{
+	height: 150px;
+  border-radius: 300px;
+
+}
+
+#footer
+{
+	width: 100%;
+}
+
+#links
+{
+	width: 200px;
+	margin:20px auto;
+	text-align: left;
+
+}
+
+#social
+{
+	margin-top: 50px
+}
+
+#bs-example-navbar-collapse-1
+{
+	background-color: black;
+}
+
+#td
+{	
+	padding-left:40px;
+	padding-bottom: 10px;
+}
+
+/*End of IDs*/
+
+
+

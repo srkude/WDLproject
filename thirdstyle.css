@@ -1,0 +1,187 @@
+
+
+.content1
+{
+	text-align: center;
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.thumbnail
+{
+	margin-top: 70px;
+	height: 300px;
+}
+
+
+h4
+{
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+	font-size: 10px;
+	font-weight: 700;
+}
+
+.page-header
+{
+	text-align: center;
+	padding-top: 20px;
+}
+
+
+.page-footer
+{
+	background-color: black;
+}
+#logo
+{
+	height: 50px;
+	width: 100px;
+}
+
+.carousel
+{
+	margin-top:100px;
+}
+
+#logo1
+{
+	height: 75px;
+}
+
+.navbar
+{
+	background-color: #000000;
+	height: 75px;
+}
+
+.thumbnail img
+{
+	height:280px;
+	width: 520px;
+
+}
+
+.carousel-inner
+{
+	height: 500px;
+}
+
+#container
+{
+	/*border: 2px solid #BB8CC1;
+	border-radius: 25px;*/
+	margin:20px auto;
+	width: 1000px;
+    padding: 20px;
+    
+
+	
+
+}
+select
+{
+	width: 60px;
+	padding: 10px 10px;
+    border-radius: 8px;
+
+
+}
+
+input[type=text]
+{
+	width: 130px;
+	padding: 10px 10px;
+    border-radius: 8px;
+
+}
+
+input[type=number]
+{
+	width: 130px;
+	padding: 10px 10px;
+    border-radius: 8px;
+
+}
+input[type=date]
+{
+	width: 20px;
+	padding: 10px 10px;
+    border-radius: 8px;
+}
+input[type=email]{
+	width: 20px;
+	padding: 10px 10px;
+    border-radius: 8px;
+}
+
+input[type=mobile]{
+	width: 20px;
+	padding: 10px 10px;
+    border-radius: 8px;
+
+}
+
+#container2
+{
+	width: 500px;
+	text-align: center;
+	margin: 20px auto;
+
+
+}
+
+body{
+    background-image: linear-gradient(#B7C2F1,#9AB9F8,#BAFBFA,#F8FDFD,white,#FDD1F4);
+	background-size: cover;	
+}
+
+.thumbnail
+{
+	border-color: transparent;
+	background-color: transparent;
+}
+
+hr.style-four {
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+
+#logof
+{
+	height: 150px;
+  border-radius: 300px;
+
+}
+
+#footer
+{
+	width: 100%;
+}
+
+#links
+{
+	width: 200px;
+	margin:20px auto;
+	text-align: left;
+
+}
+.links
+{
+	padding-top: 10px;
+	padding-left: 30px;
+}
+
+#social
+{
+	margin-top: 50px
+}
+.fa-facebook:before
+{
+	height: 50px;
+}
+button{
+	margin-left: 200px;
+	width: 100px;
+}
